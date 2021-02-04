@@ -10,6 +10,9 @@ Korry Tunnicliff
 
 This is another change to the readmefile - aloha
 
+Hi, this is aloha on a seperate branch
+Changing the file 
+
 This is a change to the readme file :)
 <<<<<<< HEAD
 =======
