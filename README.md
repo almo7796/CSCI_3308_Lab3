@@ -29,6 +29,11 @@ This is Alex! Hello all!
 >>>>>>> cbd4dfa79564e92cb91879f2f7c82fae02ca5edc
 =======
 >>>>>>> 61ce85bf1627b74ed2efc10b1fec835d849ad5b0
+<<<<<<< HEAD
+
+This is Korry's change when he made a new branch lesgo
+=======
 >>>>>>> fcb60769280f18d978b0c4bb266dd58b4ce297f1
 =======
 >>>>>>> 33e3f32f5408bd2d80ad114ab349196cbf7811c1
+>>>>>>> 53f25e159a3657ea8691b1d3586b9ae2a3634335
