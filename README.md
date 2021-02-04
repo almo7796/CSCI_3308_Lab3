@@ -19,7 +19,11 @@ This is a change to the readme file :)
 This is Carter speaking! Domestic Desert rules!
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is Brandon Le!
+=======
+This is Alex! Hello all!
+>>>>>>> cbd4dfa79564e92cb91879f2f7c82fae02ca5edc
 =======
 >>>>>>> 61ce85bf1627b74ed2efc10b1fec835d849ad5b0
 >>>>>>> fcb60769280f18d978b0c4bb266dd58b4ce297f1
