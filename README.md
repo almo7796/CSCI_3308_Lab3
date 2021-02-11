@@ -2,6 +2,9 @@ AlexBranch
 # CSCI_3308_Lab3
 This is the git repository for working with git commands.
 
+
+change to readme
+
 HEAD
 HEAD
 Korry Tunnicliff
